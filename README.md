@@ -2,10 +2,6 @@
 
 Final year project of group MCS08 for Advanced Computer Science Bachelor's Degree
 
-## Rules
-
-Make sure to push your work to a dedicated branch, keep the main branch for completed tasks !!!
-
 ## Getting Started
 
 Firstly, make sure to run npm install
